@@ -61,6 +61,7 @@ python -m pip install openai
 -  Stap 1 : Maak je eigen chatbot (basis oplossing is gegeven)
 -  Stap 2 : Scrape data van een eigen website naar keuze (basis oplossing is gegeven)
 -  Stap 3 : Automatiseer jouw eigen opzoekwerk (basis oplossing is gegeven)
+
   
 ![SchwartzjAllbetterGIF](https://github.com/user-attachments/assets/c0613ee5-29f9-4aff-8bb2-f9b5237963d3)
 
