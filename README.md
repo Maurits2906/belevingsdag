@@ -13,7 +13,7 @@ Vanaf daar ben je vrij om een **AI-automatisering** te maken met Python die jij 
 
 
 ## Tip
-Gebruik AI het is volledig toegestaan :) 
+Gebruik AI — het is volledig toegestaan 😉
 
 
 ## Stappenplan
