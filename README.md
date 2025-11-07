@@ -24,7 +24,7 @@ Gebruik AI — het is volledig toegestaan 😉
 **Gebruik Visual Studio Code**  
 - Download Visual Studio Code: [https://code.visualstudio.com/download](https://code.visualstudio.com/download)  
 - Volg de installer voor het installeren van Visual Studio Code  
-- Download een Python versie (liefst een versie hoger dan 3.11.x): [https://www.python.org/downloads/](https://www.python.org/downloads/)  
+- Download een Python versie (liefst een versie vanaf 3.11.x of hoger): [https://www.python.org/downloads/](https://www.python.org/downloads/)  
 
 **Wil je liever niets downloaden? Gebruik deze online code editor**
 - Gebruik het Python notebook van Google : [Colab](https://colab.research.google.com/)
