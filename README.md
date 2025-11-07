@@ -41,9 +41,11 @@ python -m pip install openai
 
 **Wanneer je Google Colab gebruikt:**
 - Je moet geen lokale pip installs doen, maar je zet bovenaan in je code het volgende om je libraries te installeren: 
-    - !pip install openai
-    - !pip install bs4
-    - !pip install requests
+```bash
+!pip install openai
+!pip install bs4
+!pip install requests
+```
 
 ### 3. Maak je eigen chatbot 
 - Gebruik openai librarie om je AI request te doen. Vergeet ook niet om je API credentials te nemen van Aglion.
