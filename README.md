@@ -30,7 +30,7 @@ Gebruik AI — het is volledig toegestaan 😉
 - Gebruik het Python notebook van Google : [Colab](https://colab.research.google.com/)
 
 
-### 2. Installeer de nodige libaries
+### 2. Installeer de nodige libraries
 **Wanneer je Visual Studio Code gebruikt:**
 - Doe in je CMD (Command Prompt) de volgende commando's om de nodige libraries te installeren:
 ```bash
